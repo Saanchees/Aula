@@ -51,6 +51,5 @@
 div.formcad{
   display: flex;
   width: 90%;
-  height: 123px;
-  margin: 0 auto;
+  height: 100%;
 }
