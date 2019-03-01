@@ -28,7 +28,7 @@
   margin: 10px 0;
 }
 
-.figure {
+.img {
   float: right;
   width: 30%;
   text-align: center;
@@ -36,9 +36,9 @@
   font-size: smaller;
   text-indent: 0;
   border: thin silver solid;
+}
+img.frontend {
+  width: 20%;
   margin: 0.1em;
   padding: 0.1em;
-}
-img.scaled {
-  width: 100%;
 }
