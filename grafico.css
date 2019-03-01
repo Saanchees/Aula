@@ -37,12 +37,12 @@
   text-indent: 0;
   border: thin silver solid;
 }
-img.frontend {
+.img.frontend {
   width: 20%;
   margin: 0.1em;
   padding: 0.1em;
 }
-img.backend{
+.img.backend{
   width: 20%;
   margin: 3.5em;
   padding: 3.5em;
