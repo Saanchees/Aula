@@ -49,7 +49,7 @@
 }
 
 div.formcad{
-  display: flex;
+  display: flexbox;
   width: 90%;
   height: 100%;
 }
