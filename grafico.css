@@ -48,12 +48,10 @@
   padding: 3.5em;
 }
 
-.form{
-  widht:100%;
-  text-align: center;
-  margin: 0% auto;
-  background: crimson;
-  max-width: 1960px;
-  padding: 15px 10px;
-  box-sizing: border-box;
+.formcad{
+  display: flex;
+  width: 90%;
+  height: 123px;
+  margin: 0 auto;
+  border: 2px dashed black;
 }
