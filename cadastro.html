@@ -9,12 +9,12 @@
 </head>
 <script>
         function envio() {
-        var r = confirm("Tem certeza que deseja enviar as informações?");
+        var r = confirm("Tem certeza que deseja enviar as informações e ser redirecionado para páginaa inicial?");
            if (r == true) {
                cadastro.submit();
            }
         }
-        </script>
+</script>
 <body>
     <div class="formcad">
         <form action="inicio.html" method="GET" name="cadastro" class="formcad">
@@ -29,7 +29,7 @@
             <input type="email" placeholder="e-mail" name="e-mail"/></br>
             Upload de arquivo:</br>
             <input type="file"/></br>
-            <input type="submit" src="inicio.html">
+            <input type="submit" src="inicio.html" onclick="envio();">
         </form>
     </div>
 </body>
