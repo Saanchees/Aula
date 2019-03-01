@@ -6,11 +6,12 @@ font-size: 12px;
 }
  
 .menu{
-margin: auto;
-max-width: 800px;
-list-style:none; 
-border:1px solid #c0c0c0; 
-float:center;
+    margin: auto;
+    max-width: 800px;
+    list-style:none; 
+    border:1px solid #c0c0c0; 
+    float:left;
+    justify-content: center
 }
 
 .menu li{
