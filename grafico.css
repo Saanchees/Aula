@@ -51,10 +51,6 @@ img.backend{
 .form{
   widht:100%;
   text-align: center;
-}
-
-.form.formcad{
-  text-align: center;
   margin: 0% auto;
   background: crimson;
   max-width: 1960px;
