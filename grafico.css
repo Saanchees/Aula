@@ -58,3 +58,7 @@ div.formcad{
   position: absolute; 
   top: 50%; 
 }
+
+.h1{
+  text-emphasis-color: white;
+}
