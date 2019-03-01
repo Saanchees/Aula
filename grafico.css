@@ -6,17 +6,16 @@ font-size: 12px;
 }
  
 .menu{
-list-style:none; 
-border:1px solid #c0c0c0; 
-float:left; 
 margin: auto;
 max-width: 800px;
-align-items: center
+list-style:none; 
+border:1px solid #c0c0c0; 
+float:center;
 }
 
 .menu li{
     position:relative; 
-    float:left; 
+    float:center; 
     border-right:1px solid #c0c0c0; 
     }
 
