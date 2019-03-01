@@ -50,10 +50,10 @@
 
 div.formcad{
   background-color: #e1e1e1; 
-  width: 800px; 
-  height: 250px; 
+  width: 400px; 
+  height: 650px; 
   left: 50%; 
-  margin: -130px 0 0 -710px; 
+  margin: -130px 0 0 -210px; 
   padding:10px;
   position: absolute; 
   top: 50%; 
