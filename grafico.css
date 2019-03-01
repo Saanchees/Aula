@@ -9,6 +9,8 @@ font-size: 12px;
 list-style:none; 
 border:1px solid #c0c0c0; 
 float:left; 
+margin: auto;
+max-width: 800px;
 }
 
 .menu li{
