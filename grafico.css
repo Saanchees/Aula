@@ -36,8 +36,8 @@
   font-size: smaller;
   text-indent: 0;
   border: thin silver solid;
-  margin: 0.5em;
-  padding: 0.5em;
+  margin: 0.1em;
+  padding: 0.1em;
 }
 img.scaled {
   width: 100%;
