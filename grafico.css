@@ -66,14 +66,24 @@ div.formcad{
 .imgfront{
   position: absolute;
   top: 50%; 
-  left: 10%;
-  transform: translate(-50%, -50%);  
+  left: 50%;
+  transform: translate(7%, 40%);  
   position: relative;
 }
 .imgback{
   position: absolute;
-  top: 30%; 
-  left: 30%;
-  transform: translate(-90%, -50%);  
+  top: 50%; 
+  left: 50%;
+  transform: translate(-30%, -50%);  
   position: relative;
+}
+div.formcont{
+  background-color: rgba(100, 111, 211, 0.533); 
+  width: 480px; 
+  height: 470px;
+  left: 50%; 
+  margin: -130px 0 0 -210px; 
+  padding:10px;
+  position: absolute; 
+  top: 50%; 
 }
