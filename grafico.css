@@ -62,3 +62,12 @@ div.formcad{
 .h1{
   text-emphasis-color: white;
 }
+
+.imghome{
+  max-width: 960px;
+  background: cornsilk;
+  margin: 0 auto;
+  text-align: center;
+  padding: 15px 10px;
+  box-sizing: border-box;
+}
