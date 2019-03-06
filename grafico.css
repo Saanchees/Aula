@@ -63,14 +63,14 @@ div.formcad{
   text-emphasis-color: white;
 }
 
-.imghome front{
+.imghome .front{
   position: absolute;
   top: 90%; 
   left: 50%;
   transform: translate(-50%, -50%);  
   position: relative;
 }
-.imghome back{
+.imghome .back{
   position: absolute;
   top: 100%; 
   left: 50%;
