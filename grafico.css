@@ -63,7 +63,7 @@ div.formcad{
   text-emphasis-color: white;
 }
 
-.imghome img{
+.imghome{
   display:flex;
   display: -webkit-flex;
   justify-content: center;
