@@ -87,3 +87,6 @@ div.formcont{
   position: absolute; 
   top: 50%; 
 }
+.body{
+  background-color: #f0f5dc;
+}
