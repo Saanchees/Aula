@@ -1,5 +1,6 @@
-.menu{
-  max-width: 960px;
+
+
+  .menu{
   background: cornsilk;
   margin: 0 auto;
   text-align: center;
@@ -10,6 +11,7 @@
   display: inline-block;
   margin: 10px 15px;
   position: relative;
+  margin-left: 100px;
  }
 .menu ul{
   display: none;
@@ -37,44 +39,43 @@
   text-indent: 0;
   border: thin silver solid;
 }
-.img.frontend {
-  width: 20%;
-  margin: 0.1em;
-  padding: 0.1em;
-}
-.img.backend{
-  width: 20%;
-  margin: 3.5em;
-  padding: 3.5em;
-}
-
 div.formcad{
   background-color: #daa8a8; 
   width: 400px; 
   height: 330px; 
   left: 50%; 
-  margin: -130px 0 0 -210px; 
+  margin: -180px 0 0 -210px; 
   padding:10px;
   position: absolute; 
   top: 50%; 
 }
 
-.h1{
-  text-emphasis-color: white;
+h1{
+  color: brown;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+.h2id{
+  color: brown;
 }
 
 .imgfront{
   position: absolute;
   top: 50%; 
   left: 50%;
-  transform: translate(7%, 40%);  
+  transform: translate(17%, 45%);  
   position: relative;
+  align-items: center;
 }
 .imgback{
   position: absolute;
   top: 50%; 
   left: 50%;
-  transform: translate(-30%, -50%);  
+  transform: translate(-40%, -50%);  
   position: relative;
 }
 div.formcont{
@@ -82,11 +83,11 @@ div.formcont{
   width: 480px; 
   height: 470px;
   left: 50%; 
-  margin: -130px 0 0 -210px; 
+  margin: -180px 0 0 -250px; 
   padding:10px;
   position: absolute; 
   top: 50%; 
 }
-.body{
+body{
   background-color: #f0f5dc;
 }
