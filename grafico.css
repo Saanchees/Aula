@@ -23,7 +23,7 @@
   width: 150px;
   text-align: left;
   padding: 0;
-  background: white;
+  background: rgb(253, 255, 250));
 }
 .menu li:hover ul li{
   display: block;
@@ -90,4 +90,12 @@ div.formcont{
 }
 body{
   background-color: #f0f5dc;
+}
+
+a:visited{
+  color: rgb(179, 83, 83);
+}
+
+a:hover{
+  color: rgb(175, 154, 128);
 }
