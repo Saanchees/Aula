@@ -42,12 +42,12 @@
 div.formcad{
   background-color: #daa8a8; 
   width: 400px; 
-  height: 330px; 
+  height: 350px; 
   left: 50%; 
   margin: -180px 0 0 -210px; 
   padding:10px;
   position: absolute; 
-  top: 50%; 
+  top: 35%; 
 }
 
 h1{
@@ -81,12 +81,12 @@ h2{
 div.formcont{
   background-color: rgba(100, 111, 211, 0.533); 
   width: 480px; 
-  height: 470px;
+  height: 670px;
   left: 50%; 
   margin: -180px 0 0 -250px; 
   padding:10px;
   position: absolute; 
-  top: 50%; 
+  top: 40%; 
 }
 body{
   background-color: #f0f5dc;
